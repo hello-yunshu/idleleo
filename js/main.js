@@ -45,23 +45,14 @@
     /* Owl Carousel
     ------------------------------------------------------ */
     $("#owl-slider").owlCarousel({
-        nav: false,
-        dots: true,
-        responsive: {
-            0: {
-                items: 1
-            },
-            360: {
-                items: 2
-            },
-            600: {
-                items: 3
-            },
-            1000: {
-                items: 4
-            }
-        },
-        navText: false
+        navigation: false,
+        pagination: true,
+        itemsCustom: [
+            [0, 1],
+            [700, 2],
+            [960, 3]
+        ],
+        navigationText: false
     });
 
 
