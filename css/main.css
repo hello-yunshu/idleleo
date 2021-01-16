@@ -1424,7 +1424,7 @@ header .logo a {
     color: transparent;
     width: 155px;
     height: 66px;
-    background: url(//i2.idleleo.com/wp-content/themes/panyi-theme/img/logofin.svg) no-repeat center;
+    background: url(//www.idleleo.com/wp-content/themes/panyi-theme/img/logofin.svg) no-repeat center;
     background-size: 125px 66px;
 }
 
@@ -1620,7 +1620,7 @@ header .logo a {
  */
 
 #intro {
-    background: #151515 url(//i2.idleleo.com/wp-content/themes/panyi-theme/img/intro-bg.jpg) no-repeat center;
+    background: #151515 url(//www.idleleo.com/wp-content/themes/panyi-theme/img/intro-bg.jpg) no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -1803,7 +1803,7 @@ header .logo a {
 
 @media only screen and (max-width:600px) {
     #intro {
-        background: #151515 url(//i2.idleleo.com/wp-content/themes/panyi-theme/img/intro-bg-2.jpg) no-repeat center;
+        background: #151515 url(//www.idleleo.com/wp-content/themes/panyi-theme/img/intro-bg-2.jpg) no-repeat center;
         min-height: 600px;
         -webkit-background-size: auto 100%;
         -moz-background-size: auto 100%;
@@ -2541,7 +2541,7 @@ header .logo a {
  */
 
 #services {
-    background: #313131 url(//i2.idleleo.com/wp-content/themes/panyi-theme/img/bg.jpg) no-repeat center;
+    background: #313131 url(//www.idleleo.com/wp-content/themes/panyi-theme/img/bg.jpg) no-repeat center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
